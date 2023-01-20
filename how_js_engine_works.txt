@@ -1,0 +1,6 @@
+JS File
+    (lexical analysis)(parser/parsing) -----> tokens (to identify thier meaning so we know what they are trying to do)
+    (syntax analysis) -----> AST (Abstract Syntax Tree) (breaks up the program into a tree)
+    (interpreting) -----> Interpreter (takes in the AST and spits out bytecode)
+    (profiling/monitoring) -----> Profiler (watches the code as it runs and notes on how to optimize it and pass it to a Compiler)
+    (compiling) -----> Compiler (compiles the bytecode to optimized machine code)

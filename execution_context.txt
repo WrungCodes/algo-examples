@@ -1,0 +1,4 @@
+execution context tells you what current lexical context we are currently running
+
+lexical scope determines our avaiable variables and functions
+

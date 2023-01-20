@@ -1,0 +1,6 @@
+// call stack & memory heap
+
+javascript is single threaded because it has just one call stack and memory heap
+
+call stack is a list stack (first in last out) that logs and keeps track of the execution and order of a program in javascript
+memory heap is where the variables are stored, it uses a heap data structure
